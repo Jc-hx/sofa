@@ -254,6 +254,10 @@
           "type": "BOOL",
           "value": "OFF"
         },
+        "sofaConfigTest": {
+          "type": "BOOL",
+          "value": "ON"
+        },
         "PLUGIN_SOFAMATRIX": {
           "type": "BOOL",
           "value": "OFF"
