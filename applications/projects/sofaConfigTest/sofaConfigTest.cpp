@@ -36,5 +36,6 @@ int main(int /*argc*/, char** argv)
     //sofa::component::initSofaConfig();
 
     std::cout << "SofaConfigTest has been executed." << std::endl;
+    std::cout << "BOOST_PARAMETER_MAX_ARITY : " << BOOST_PARAMETER_MAX_ARITY << std::endl;
     return 0;
 }
