@@ -24,7 +24,7 @@
 //#include <SofaGeneral/initSofaGeneral.h>
 //#include <sofa/config.h>
 #include <iostream>
-#include</home/jchx/Documents/Polytech/Projet/SOFA/sofa_repo/build/include/Sofa.Config/sofa/config.h>
+#include <sofa/config.h>
 //#include <sofa/core/ObjectFactory.h>
 
 // ---------------------------------------------------------------------
@@ -36,6 +36,7 @@ int main(int /*argc*/, char** argv)
     //sofa::component::initSofaConfig();
 
     std::cout << "SofaConfigTest has been executed." << std::endl;
+    std::cout << "Sofa invalid ID " << sofa::InvalidID << std::endl;
     std::cout << "BOOST_PARAMETER_MAX_ARITY : " << BOOST_PARAMETER_MAX_ARITY << std::endl;
     return 0;
 }

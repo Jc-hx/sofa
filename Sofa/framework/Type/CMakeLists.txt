@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.12)
 project(Sofa.Type LANGUAGES CXX)
 
+
 set(SOFATYPESRC_ROOT "src/sofa/type")
 
 set(HEADER_FILES
