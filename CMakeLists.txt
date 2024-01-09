@@ -148,6 +148,8 @@ endif()
 
 list(APPEND CMAKE_MODULE_PATH "${EMSCRIPTEN_ROOT_PATH}/cmake/Modules")
 
+
+
 #Linux
 set(EMCC_SUFFIX "")
 
@@ -173,14 +175,9 @@ set(CMAKE_RANLIB "${EMSCRIPTEN_ROOT_PATH}/emranlib${EMCC_SUFFIX}")
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_BUILD_WITH_INSTALL_RPATH TRUE)
-# Set additional compiler flags, including -stdlib=libc++
 
 
-# Including Emscripten standard library paths
-include_directories(
-    "${EMSCRIPTEN_ROOT_PATH}/cache/sysroot/include/c++/v1"
-    "${EMSCRIPTEN_ROOT_PATH}/cache/sysroot/include/"
-)
+
 
 #set(CMAKE_EXE_LINKER_FLAGS_INIT "-s WASM=1")
 #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -s WASM=1")

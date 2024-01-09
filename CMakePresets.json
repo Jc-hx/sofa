@@ -254,10 +254,6 @@
           "type": "BOOL",
           "value": "OFF"
         },
-        "sofaConfigTest": {
-          "type": "BOOL",
-          "value": "ON"
-        },
         "PLUGIN_SOFAMATRIX": {
           "type": "BOOL",
           "value": "OFF"
@@ -267,6 +263,14 @@
           "value": "OFF"
         },
         "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
           "type": "BOOL",
           "value": "OFF"
         }
@@ -504,6 +508,14 @@
           "value": "OFF"
         },
         "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATYPETEST": {
           "type": "BOOL",
           "value": "OFF"
         },
@@ -1066,6 +1078,14 @@
           "type": "BOOL",
           "value": "OFF"
         },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
         "LIBRARY_SOFA_COMPAT": {
           "type": "BOOL",
           "value": "OFF"
@@ -1620,6 +1640,14 @@
         "APPLICATION_REGRESSION": {
           "type": "BOOL",
           "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "ON"
         },
         "LIBRARY_SOFA_COMPAT": {
           "type": "BOOL",

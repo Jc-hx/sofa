@@ -25,6 +25,7 @@
 #include <sofa/config/build_option_dump_visitor.h>
 #include <sofa/config/build_option_bbox.h>
 
+
 #include <cstddef> // For nullptr
 #include <limits> // std::numeric_limits<>
 

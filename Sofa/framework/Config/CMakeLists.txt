@@ -7,6 +7,7 @@ list(APPEND CMAKE_PREFIX_PATH "${CMAKE_BINARY_DIR}/lib/cmake")
 
 include(SofaMacros)
 
+
 # Clear internal target list (set by the macro sofa_add_generic() )
 set_property(GLOBAL PROPERTY __GlobalTargetList__ "")
 set_property(GLOBAL PROPERTY __GlobalTargetNameList__ "")
