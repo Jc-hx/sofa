@@ -35,7 +35,7 @@
 # include <string.h>            // for strerror()
 # include <unistd.h>            // for readlink()
 # include <errno.h>
-# include <linux/limits.h>      // for PATH_MAX
+//# include <linux/limits.h>      // for PATH_MAX
 #endif
 
 #include <cstdlib>

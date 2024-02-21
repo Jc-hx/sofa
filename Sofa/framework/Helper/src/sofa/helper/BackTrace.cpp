@@ -22,9 +22,12 @@
 #include <sofa/helper/BackTrace.h>
 
 #include <csignal>
+
 #if !defined(WIN32) && !defined(__APPLE__)
+/*
 #include <execinfo.h>
 #include <unistd.h>
+*/
 #endif
 #if defined(WIN32)
 #include "windows.h"
@@ -50,7 +53,7 @@ namespace helper
 BackTrace::StackTrace BackTrace::getTrace(size_t maxEntries)
 {
     BackTrace::StackTrace result;
-
+/*
 #if defined(__GNUC__) && !defined(__APPLE__) && !defined(WIN32)
     void *array[128];
     int size = backtrace(array, sizeof(array) / sizeof(array[0]));
@@ -100,7 +103,7 @@ BackTrace::StackTrace BackTrace::getTrace(size_t maxEntries)
         }
         else
         {
-            backtrace_symbols_fd(array, size, STDERR_FILENO);
+           backtrace_symbols_fd(array, size, STDERR_FILENO);
         }
     }
 
@@ -128,7 +131,7 @@ BackTrace::StackTrace BackTrace::getTrace(size_t maxEntries)
 
     free(symbol);
 #endif
-
+*/
     return result;
 }
 

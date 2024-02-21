@@ -273,6 +273,46 @@
         "APPLICATION_SOFATYPETEST": {
           "type": "BOOL",
           "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
         }
       }
     },
@@ -516,6 +556,46 @@
           "value": "ON"
         },
         "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
           "type": "BOOL",
           "value": "OFF"
         },
@@ -1086,6 +1166,46 @@
           "type": "BOOL",
           "value": "ON"
         },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
         "LIBRARY_SOFA_COMPAT": {
           "type": "BOOL",
           "value": "OFF"
@@ -1649,6 +1769,46 @@
           "type": "BOOL",
           "value": "ON"
         },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
         "LIBRARY_SOFA_COMPAT": {
           "type": "BOOL",
           "value": "OFF"
@@ -1720,6 +1880,5430 @@
         "LIBRARY_SOFA_TOPOLOGY": {
           "type": "BOOL",
           "value": "OFF"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "topology_emscripten",
+      "displayName": "Topology Library",
+      "description": "Build topology library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "helper_emscripten",
+      "displayName": "Helper Library",
+      "description": "Build helper library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "LinearAlgebra_emscripten",
+      "displayName": "LinearAlgebra Library",
+      "description": "Build LinearAlgebra library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "Compat_emscripten",
+      "displayName": "Compat Library",
+      "description": "Build compat library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "DefaultType_emscripten",
+      "displayName": "DefaultType Library",
+      "description": "Build DefaultType library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "Core_emscripten",
+      "displayName": "Core Library",
+      "description": "Build Core library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "testing_emscripten",
+      "displayName": "Testing Library",
+      "description": "Build testing library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+    {
+      "name": "simulation_emscripten",
+      "displayName": "Simulation Library",
+      "description": "Build simulation library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATESTINGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "MODULE_SOFA_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TESTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ANIMATIONLOOP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_COLLISION_DETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_ALGORITHM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_DETECTION_INTERSECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_GEOMETRY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_CONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_COLLISION_RESPONSE_MAPPER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_CORRECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_MODEL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_LAGRANGIAN_SOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONSTRAINT_PROJECTIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_CONTROLLER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_DIFFUSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_ANALYZE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_GENERATE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_SELECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_ENGINE_TRANSFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_HAPTICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_IO": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_DIRECT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_ITERATIVE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSOLVER_PRECONDITIONER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_LINEARSYSTEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_LINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_MAPPEDMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MAPPING_NONLINEAR": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_MECHANICALLOAD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_BACKWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_ODESOLVER_FORWARD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_PLAYBACK": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SCENEUTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SETTING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_ELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_HYPERELASTIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_FEM_NONUNIFORM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },"MODULE_SOFA_COMPONENT_SOLIDMECHANICS_SPRING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_SOLIDMECHANICS_TENSORMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_STATECONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_CONSTANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_DYNAMIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_CONTAINER_GRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_MAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_VISUAL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_IO_MESH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_COMPONENT_TOPOLOGY_UTILITY": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_ENGINE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING2D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_RENDERING3D": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GL_COMPONENT_SHADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "MODULE_SOFA_GUI_COMPONENT": {
+          "type": "BOOL",
+          "value": "OFF"
+        }
+      }
+    },
+
+
+    {
+      "name": "framework_emscripten",
+      "displayName": "Framework Library",
+      "description": "Build framework library with emscripten.",
+      "hidden": false,
+      "generator": "Ninja",
+      "cacheVariables": {
+        "SOFA_BUILD_TESTS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_ENABLE_LEGACY_HEADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_TUTORIALS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SCENES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "SOFA_BUILD_ADD_SHADERS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COLLISIONOBBCAPSULE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHIGHORDER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CIMGPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_ARTICULATEDSYSTEMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAEULERIANFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASPHFLUID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFADISTANCEGRID": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAIMPLICITFIELD": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MULTITHREADING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_DIFFUSIONSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_IMAGE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFANEWMAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_COMPLIANT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPYTHON3": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_CGALPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_FLEXIBLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_REGISTRATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BULLETCOLLISIONDETECTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PREASSEMBLEDMASS": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_INVERTIBLEFVM": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MESHSTEPLOADER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PLUGINEXAMPLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANIFOLDTOPOLOGIES": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPTITRACKNATNET": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SIXENSEHYDRA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAOPENCL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_XITACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_HAPTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_MANUALMAPPING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PERSISTENTCONTACT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SENSABLEEMULATION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAHAPI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_THMPGSPATIALHASHING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACARVING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_RIGIDSCALE": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_LEAPMOTION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_GEOMAGIC": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAASSIMP": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAMATRIX": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_OPENCTMPLUGIN": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_BEAMADAPTER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_PSL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFAPARDISOSOLVER": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFACUDA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFASIMPLEGUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_BATCH": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_SOFA_GUI_QT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "PLUGIN_VOLUMETRICRENDERING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SCENECHECKING": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_RUNSOFA": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_REGRESSION": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACONFIGTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAGEOMETRYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFATOPOLOGYTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACOMPATTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAHELPERTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFAFRAMEWORKTEST": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "APPLICATION_SOFASIMULATIONTEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFALINEARALGEBRATEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFADEFAULTTYPETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "APPLICATION_SOFACORETEST": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_COMPAT": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_COMPONENT_COMPAT": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_CONFIG": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_DEFAULTTYPE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_FRAMEWORK": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GEOMETRY": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_GL": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_GUI_COMMON": {
+          "type": "BOOL",
+          "value": "OFF"
+        },
+        "LIBRARY_SOFA_HELPER": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_LINEARALGEBRA": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_COMMON": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_CORE": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_SIMULATION_GRAPH": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TESTING": {
+          "type": "BOOL",
+          "value": "ON"
+        },
+        "LIBRARY_SOFA_TOPOLOGY": {
+          "type": "BOOL",
+          "value": "ON"
         },
         "LIBRARY_SOFA_TYPE": {
           "type": "BOOL",
